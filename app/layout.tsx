@@ -28,7 +28,7 @@ export default function RootLayout({
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1232219942277862"
         crossOrigin="anonymous"></script>
-        <link rel="canonical" href="https://internetroadtrip.net/" />
+        <link rel="canonical" href="https://mergerot.cc/" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
