@@ -7,9 +7,9 @@ export default function Example() {
     <div className="privacy">
       <HeaderNav />
       <div className="privacy-txt"> 
-            <div>Last updated: May 08, 2025</div>
+            <div>Last updated: May 30, 2025</div>
             <h1 className="h1-title text-4xl font-bold">Privacy Policy</h1>
-            <div>Welcome to InternetRoadTrip.net (the "Site"). We are committed to protecting your privacy. This policy explains how we collect, use, store, and safeguard your personal information. Please read this document carefully.</div>
+            <div>Welcome to mergerot.cc (the "Site"). We are committed to protecting your privacy. This policy explains how we collect, use, store, and safeguard your personal information. Please read this document carefully.</div>
             <h2 className="h1-title text-3xl font-bold">1. Information We Collect</h2>
             <div className="font-bold">1.Information You Provide:</div>
             <div>Account registration details (name, email, password).</div>
@@ -56,7 +56,7 @@ export default function Example() {
 
             <h2 className="h1-title text-3xl font-bold">9. Contact Us</h2>
             <div>For privacy-related inquiries, contact:</div>
-            <div>Email: legal@internetroadtrip.net</div>
+            <div>Email: legal@mergerot.cc</div>
       </div>
     </div>
   )

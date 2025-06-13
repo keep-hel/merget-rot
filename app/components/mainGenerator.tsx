@@ -59,7 +59,7 @@ export default function Example() {
           </div>
         </div>
       </div>
-      <h2 className="order-tt tracking-tight">Games</h2>
+      {/* <h2 className="order-tt tracking-tight">Games</h2> */}
       <div className="game">
         <iframe 
             className="game-iframe"

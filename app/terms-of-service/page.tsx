@@ -8,7 +8,7 @@ export default function Example() {
       <HeaderNav />
       <div className="privacy-text"> 
             <h1 className="h1-title text-4xl font-bold">Privacy Policy</h1>
-            <div>Welcome to InternetRoadTrip.net. By accessing or using the Site, you agree to comply with and be bound by these terms. If you disagree, do not use the Site.</div>
+            <div>Welcome to mergerot.cc. By accessing or using the Site, you agree to comply with and be bound by these terms. If you disagree, do not use the Site.</div>
             <h2 className="h1-title text-3xl font-bold">1. User Eligibility</h2>
             <div>1.You must be at least 13 years old (or the legal age in your jurisdiction) to use the Site.</div>
             <div>2.Creating fake accounts or impersonating others is prohibited.</div>
@@ -48,7 +48,7 @@ export default function Example() {
             <div>Class action waivers apply</div>
             <h2 className="h1-title text-3xl font-bold">9. Contact</h2>
             <div>For questions about these Terms:</div>
-            <div>Email: legal@internetroadtrip.net</div>
+            <div>Email: legal@mergerot.cc</div>
       </div>
     </div>
   )
