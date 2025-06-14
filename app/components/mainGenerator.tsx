@@ -115,7 +115,7 @@ export default function Example() {
         </div>
 
       </div>
-      {/* <h2 className="order-tt tracking-tight">Hot Game</h2>
+      <h2 className="order-tt tracking-tight">Hot Game</h2>
       <div className="order">
         {
           arr.map((item, index) => (
@@ -128,7 +128,7 @@ export default function Example() {
             </Link>
           ))
         }
-      </div> */}
+      </div>
 
       <div className="footer">
         <Link href={{ pathname: '/privacy-policy' }}>
