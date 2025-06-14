@@ -68,7 +68,7 @@ export default function Example({ datas }: { datas: { h1: string, introduction: 
           </div>
         </div>
       </div>
-      <h2 className="order-tt tracking-tight">Games</h2>
+      {/* <h2 className="order-tt tracking-tight">Games</h2> */}
       <div className="game">
         <iframe className="game-iframe" src={datas.link} sandbox="allow-scripts allow-same-origin" allow="fullscreen" scrolling="no" loading="eager"></iframe>
       </div>
