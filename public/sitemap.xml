@@ -8,19 +8,100 @@
 
 
 <url>
-  <loc>https://www.mergerot.cc/</loc>
+  <loc>https://mergerot.cc/</loc>
   <changefreq>daily</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.mergerot.cc/privacy-policy</loc>
+  <loc>https://mergerot.cc/allHotGame</loc>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.mergerot.cc/terms-of-service</loc>
+  <loc>https://mergerot.cc/italian-animals-meme-playground</loc>
   <changefreq>daily</changefreq>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://mergerot.cc/italian-brainrot-quiz</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/sprunki-shifted</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/about-a-frog</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/dream-mania-happy-match</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/sort-the-court</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/duck-life-5-treasure-hunt</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/fire-flush</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/the-freak-circus</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/bubble-letters</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/golf-orbit</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/bottle-jump</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/fall-flat-battle</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/poor-bunny</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/red-rush</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/privacy-policy</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mergerot.cc/terms-of-service</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
