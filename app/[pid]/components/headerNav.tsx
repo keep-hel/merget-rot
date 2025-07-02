@@ -4,7 +4,7 @@ import "./headerNav.css";
 
 const navigation = [
   { name: 'Home', href: '/', current: false },
-  // { name: 'Hot Game', href: '/allHotGame', current: false },
+  { name: 'Hot Game', href: '/allHotGame', current: false },
   // { name: 'Sprunki Game', href: '/sprunki-game', current: false },
   // { name: 'NealFun Games', href: 'https://stimulationclicker.cc/', current: false },
 ]
